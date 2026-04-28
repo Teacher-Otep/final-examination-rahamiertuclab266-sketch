@@ -11,7 +11,6 @@ function showSection(sectionID) {
     }
 }
 
-// Show HOME by default
 window.onload = function () {
     showSection('home');
 

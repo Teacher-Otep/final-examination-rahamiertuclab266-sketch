@@ -17,13 +17,11 @@
         <button class="navbarbuttons" onclick="showSection('delete')">Delete</button>
     </nav>
 
-    <!-- HOME -->
     <section id="home" class="content">
         <h1 class="splash">Welcome to Student Management System</h1>
         <h2 class="splash">A Project in Integrative Programming Technologies</h2>
     </section>
 
-    <!-- CREATE -->
     <section id="create" class="content">
         <h1 class="contenttitle">Insert New Student</h1>
 
@@ -57,7 +55,6 @@
         </form>
     </section>
 
-    <!-- READ -->
     <section id="read" class="content">
         <h1 class="contenttitle">Search Student</h1>
 
@@ -68,7 +65,6 @@
         </form>
     </section>
 
-    <!-- UPDATE -->
     <section id="update" class="content">
         <h1 class="contenttitle">Update Student</h1>
 
@@ -86,7 +82,6 @@
         </form>
     </section>
 
-    <!-- DELETE -->
     <section id="delete" class="content">
         <h1 class="contenttitle">Delete Student</h1>
 

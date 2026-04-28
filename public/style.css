@@ -4,7 +4,7 @@ body {
     padding: 0;
     display: flex;
     flex-direction: column;
-    align-items: center; /* center everything horizontally */
+    align-items: center; 
     background-color: #ffffff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -12,7 +12,7 @@ body {
 .navbar {
     display: flex;
     justify-content: space-evenly;
-    align-items: center; /* vertical center */
+    align-items: center;
     width: 80%;
     height: 60px;
     margin-top: 20px;
